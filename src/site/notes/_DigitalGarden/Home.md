@@ -9,13 +9,6 @@
 
 你会在这里看到我的思考草稿、项目想法和学习笔记。它们不追求完整，只追求真实。
 
----
-
-## 🌱 正在生长
-
-- [[8_Escape/Project/Wiseva/Brainstorm\|Wiseva · 英语学习 App 构想]]
-- [[8_Escape/Project/Wiseva/Idea Validation\|Idea Validation · 验证框架]]
-- [[8_Escape/_TheMinimalistEntrepreneur/README\|The Minimalist Entrepreneur]]
 
 ---
 
